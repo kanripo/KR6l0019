@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:45.504900
+#+DATE: 2015-08-30 20:50:46.947340
 #+TITLE: 入阿毘達磨論
 #+PROPERTY: CBETA_ID T28n1554
 #+PROPERTY: ID KR6l0019
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1554
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0019_T_000-0980b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0019_T_001-0980b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1554¶
-
- 《入阿毘達磨論》卷上¶
+No. 1554¶
+《入阿毘達磨論》卷上¶
 ¶
 塞建陀羅阿羅漢造¶
 三藏法師玄奘奉　詔譯¶
