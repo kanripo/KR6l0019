@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:45.504900
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:27
 #+TITLE: 入阿毘達磨論
 #+PROPERTY: CBETA_ID T28n1554
 #+PROPERTY: ID KR6l0019
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1554
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0019_T_000-0980b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0019_T_001-0980b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1554¶
-
- 《入阿毘達磨論》卷上¶
+No. 1554¶
+《入阿毘達磨論》卷上¶
 ¶
 塞建陀羅阿羅漢造¶
 三藏法師玄奘奉　詔譯¶
@@ -31,9 +30,9 @@ No.1554¶
 　劣慧妄說闇
 　覆蔽牟尼言¶
 　照了由明燈
-　稽首然燈者
+　稽首然燈者」
 #+END_VERSE
-」¶
+¶
 
 有聰慧者。能具受持諸牟尼尊教之文義。由¶
 拘事業有未得退。有劣慧者。聞對法中名義¶
